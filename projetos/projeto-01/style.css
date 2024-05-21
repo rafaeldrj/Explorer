@@ -39,6 +39,7 @@ a {
 #footer {
   font-size: 14px;
   line-height: 28px;
+  margin-bottom: 32px;
 }
 
 #footer a + a {
@@ -50,4 +51,10 @@ a {
   height: 0px;
   margin: 0 auto 8px;
   border: 1px solid #eceff2;
+}
+
+#balls {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
 }
